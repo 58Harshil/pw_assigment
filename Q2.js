@@ -38,3 +38,15 @@ console.log(typeof var11);
 //ii)
 let var12 = {name:"harshil", course:"FSWD"};
 console.log(typeof var12);
+
+//vaild
+let name = "harshil";
+console.log(name);
+let iamha = true;
+console.log(iamha)
+
+//
+let name1 = harshil;
+console.log(name);
+let iamha1 = dv;
+console.log(iamha)
