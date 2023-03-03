@@ -1,0 +1,64 @@
+/* Question 1
+//q1
+let str = "Hrashil"
+console.log(str);
+
+//q2
+let int = 13;
+let float = 12.2;
+console.log(int);
+console.log(float);
+
+//q3
+let har = BigInt(9999999999999);
+console.log(har);
+
+//q4
+const a = false;
+console.log(Boolean(a));
+//q5
+let x
+console.log(x)
+
+//q6
+	const var1 = null;
+	if (var1) {
+		console.log('not null');
+	} else {
+		console.log('null');
+	}
+//q7
+let f = 'pw skills'
+console.log(f);
+
+//q8
+
+let arr=[1,2,"pw skills"]
+console.log(arr);
+
+const car = {name:"pw skills", course:"FSWD"};
+console.log(car);
+*/
+
+
+
+/* question 2
+let arr = ["harshil",
+"iphone",
+"onplus",
+"oppo",
+"realme",
+"green condoam",
+"red madercod",
+"boat",
+"sex"]
+console.log(arr);
+*/
+
+const car = {1.:"pw skills",
+2.:"pw",
+3.:"skills",
+4.:"kills",
+5.:"lls"
+ };
+console.log(car);
